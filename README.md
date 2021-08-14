@@ -1,5 +1,7 @@
 # COMO FUNCIONA O JOGO DA BÍBLIA
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano1976)](https://github.com/Adriano1976/github-readme-stats)
+
 * Esse jogo é baseado em perguntas e respostas de acordo com as escrituras citadas nos botões.
 * Ao escolher um dos botões e clicar nele, abri-se uma janela contendo uma pergunta e quatro resposta.
 * A respostas correta será mostrada de acordo com sua escolha ao clicar no botão.
