@@ -1,6 +1,8 @@
-# COMO FUNCIONA O JOGO DA BÍBLIA
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/17755195/128590371-77be3b67-b36f-4580-a4e2-6f20183cf687.png" width="940" title="Jogo da Bíblia Interativa em Python">  
+</p>
 
-![Jogo da Bíblia](https://user-images.githubusercontent.com/17755195/128590371-77be3b67-b36f-4580-a4e2-6f20183cf687.png)
+# COMO FUNCIONA O JOGO DA BÍBLIA
 
 * Esse jogo é baseado em perguntas e respostas de acordo com as escrituras citadas nos botões.
 * Ao escolher um dos botões e clicar nele, abri-se uma janela contendo uma pergunta e quatro resposta.
