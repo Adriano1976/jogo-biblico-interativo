@@ -1,2 +1,0 @@
-for p in range(1,16): print(('U$$ %.2f = R$ %.2f') % (p,p * d))
-
